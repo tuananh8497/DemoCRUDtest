@@ -1,0 +1,3 @@
+[submodule "express-api-starter"]
+	path = express-api-starter
+	url = https://github.com/w3cj/express-api-starter.git
